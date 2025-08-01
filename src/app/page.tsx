@@ -95,7 +95,7 @@ export default function Home() {
           <p className="text-lg md:text-xl text-white/90 mb-6 leading-relaxed">
             As we bid farewell to {currentYear} and welcome {nextYear}, 
             may this new year bring you joy, success, and countless beautiful moments. 
-            Here's to new beginnings and amazing adventures ahead! ✨
+            Here&apos;s to new beginnings and amazing adventures ahead! ✨
           </p>
           
           <div className="flex flex-wrap justify-center gap-4 text-2xl">
